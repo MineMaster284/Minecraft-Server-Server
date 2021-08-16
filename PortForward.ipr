@@ -28,6 +28,13 @@
   <component name="KotlinScriptingSettings">
     <option name="suppressDefinitionsCheck" value="true" />
   </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PortForward.iml" filepath="$PROJECT_DIR$/PortForward.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PortForward.main.iml" filepath="$PROJECT_DIR$/PortForward.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PortForward.test.iml" filepath="$PROJECT_DIR$/PortForward.test.iml" />
+    </modules>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
@@ -57,68 +64,6 @@
   </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-  </component>
-  <component name="libraries-with-intellij-classes">
-    <option name="intellijApiContainingLibraries">
-      <list>
-        <LibraryCoordinatesState>
-          <option name="artifactId" value="ideaIU" />
-          <option name="groupId" value="com.jetbrains.intellij.idea" />
-        </LibraryCoordinatesState>
-        <LibraryCoordinatesState>
-          <option name="artifactId" value="ideaIU" />
-          <option name="groupId" value="com.jetbrains" />
-        </LibraryCoordinatesState>
-        <LibraryCoordinatesState>
-          <option name="artifactId" value="ideaIC" />
-          <option name="groupId" value="com.jetbrains.intellij.idea" />
-        </LibraryCoordinatesState>
-        <LibraryCoordinatesState>
-          <option name="artifactId" value="ideaIC" />
-          <option name="groupId" value="com.jetbrains" />
-        </LibraryCoordinatesState>
-        <LibraryCoordinatesState>
-          <option name="artifactId" value="pycharmPY" />
-          <option name="groupId" value="com.jetbrains.intellij.pycharm" />
-        </LibraryCoordinatesState>
-        <LibraryCoordinatesState>
-          <option name="artifactId" value="pycharmPY" />
-          <option name="groupId" value="com.jetbrains" />
-        </LibraryCoordinatesState>
-        <LibraryCoordinatesState>
-          <option name="artifactId" value="pycharmPC" />
-          <option name="groupId" value="com.jetbrains.intellij.pycharm" />
-        </LibraryCoordinatesState>
-        <LibraryCoordinatesState>
-          <option name="artifactId" value="pycharmPC" />
-          <option name="groupId" value="com.jetbrains" />
-        </LibraryCoordinatesState>
-        <LibraryCoordinatesState>
-          <option name="artifactId" value="clion" />
-          <option name="groupId" value="com.jetbrains.intellij.clion" />
-        </LibraryCoordinatesState>
-        <LibraryCoordinatesState>
-          <option name="artifactId" value="clion" />
-          <option name="groupId" value="com.jetbrains" />
-        </LibraryCoordinatesState>
-        <LibraryCoordinatesState>
-          <option name="artifactId" value="riderRD" />
-          <option name="groupId" value="com.jetbrains.intellij.rider" />
-        </LibraryCoordinatesState>
-        <LibraryCoordinatesState>
-          <option name="artifactId" value="riderRD" />
-          <option name="groupId" value="com.jetbrains" />
-        </LibraryCoordinatesState>
-        <LibraryCoordinatesState>
-          <option name="artifactId" value="goland" />
-          <option name="groupId" value="com.jetbrains.intellij.goland" />
-        </LibraryCoordinatesState>
-        <LibraryCoordinatesState>
-          <option name="artifactId" value="goland" />
-          <option name="groupId" value="com.jetbrains" />
-        </LibraryCoordinatesState>
-      </list>
-    </option>
   </component>
   <component name="libraryTable">
     <library name="Gradle: com.google.code.gson:gson:2.8.6">
