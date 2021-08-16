@@ -1,0 +1,9 @@
+[[servers]]
+baseDirectory = "F:\\MCE-L Server"
+allocatedRam = "7G"
+forgeServerFileName = "forge-1.12.2-14.23.5.2847-universal.jar"
+
+[[servers]]
+baseDirectory = "F:\\Valhelsia 3 Server"
+allocatedRam = "7G"
+forgeServerFileName = "forge-1.16.5-36.1.25.jar"
